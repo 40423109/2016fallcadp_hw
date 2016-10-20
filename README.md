@@ -3,4 +3,4 @@
 
 https://40423109.github.io/2016fallcp_hw
 
-https://40423109.github.io/2016fallcp_hw/blog
+https://40423109.github.io/2016fallcadp_hw/blog/index.html
