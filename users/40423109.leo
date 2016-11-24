@@ -9,13 +9,13 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20151212173315.1"><vh>@settings</vh>
+<v t="leo.20151212173315.1" a="E"><vh>@settings</vh>
 <v t="leo.20151212173315.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20151212173315.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
 <v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
-<v t="leo.20151213173830.1"><vh>假如要在近端檢視, 使用下列按鈕</vh>
+<v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
@@ -55,6 +55,7 @@
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
+<v t="leo.20161124154505.1"><vh>@edit 20161106-1.md</vh></v>
 <v t="leo.20161117165036.1"><vh>@edit 20161117.md</vh></v>
 </v>
 </v>
